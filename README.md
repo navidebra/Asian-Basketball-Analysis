@@ -24,8 +24,6 @@ Basketball Data Analysis.ipynb: Notebook Containing the data analysis.
 
 Data/Average.xlsx: All Tournaments Aggregated Average Attempts and Points by different scoring category data.
 
-Data/Sample pbp file.xlsx: sample play-by-play file.
-
 Data/*/: Containts Folder for each of the following tournament names: 2019  FIBA, Asian Qualifiers, 2019  FIBA, World Cup, 2022  FIBA, Asia Cup, 2023  FIBA, Asian Qualifiers
 
 Data/*/: each Tournament Folder contains two of the following files:
